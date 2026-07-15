@@ -31,11 +31,9 @@
     "react-parallax-tilt": "^1.7.333",
     "react-router-dom": "^7.18.1",
     "react-scroll-to-top": "^3.1.0",
-    "react-tsparticles": "^2.12.2",
     "react-type-animation": "^3.2.0",
     "tailwindcss": "^4.3.2",
-    "three": "^0.185.1",
-    "tsparticles": "^4.3.2"
+    "three": "^0.185.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
